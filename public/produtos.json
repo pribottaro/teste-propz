@@ -1,0 +1,53 @@
+
+[   
+  {
+    "id": "1",      
+    "titulo": "Kit NIELY Gold Pós Quimica",
+    "subtitulo": "Shampoo 300ml + Condicionador 200ml",
+    "valor": "R$ 18,79",
+    "parcela": "2",
+    "valorParcela": "R$ 9,40"
+  },
+  {
+    "id": "2",
+    "titulo": "Papel Higiênico Personal",
+    "subtitulo": "Leve 12 Pague 11 Rolos de 30m",
+    "valor": "R$ 20,99",
+    "parcela": "2",
+    "valorParcela": "R$ 10,50"
+  },
+  {
+    "id": "3",      
+    "titulo": "Kit Phytoervas",
+    "subtitulo": "Kit Shampoo E Condicionador 250ml",
+    "valor": "R$ 44,99",
+    "parcela": "3",
+    "valorParcela": "R$ 15,00"
+  },
+  {
+    "id": "4",      
+    "titulo": "Sabonete Palmolive",
+    "subtitulo": "85g Promo Leve Mais Pague Menos",
+    "valor": "R$ 12,99",
+    "parcela": "2",
+    "valorParcela": "R$ 6,49"
+  },
+  {
+    "id": "5",      
+    "titulo": "Sabonete Nivea",
+    "subtitulo": "Hidratante 85g",
+    "valor": "R$ 3,49",
+    "parcela": "1",
+    "valorParcela": "R$ 3,49"
+  },
+  {
+    "id": "6",      
+    "titulo": "Shampoo Morte Súbita Frasco",
+    "subtitulo": "Hidratante Lola Cosmetics 250ml",
+    "valor": "R$ 35,29",
+    "parcela": "3",
+    "valorParcela": "R$ 11,76"
+  }   
+]    
+
+ 
